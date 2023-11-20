@@ -1,11 +1,11 @@
 ---
 layout: page
-title: work
+title: Projects
 permalink: /projects/
-description: Personal projects and websites I've helped develop.
+description: Websites and personal projects I've helped develop.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work, personal]
 horizontal: false
 ---
 

@@ -4,8 +4,7 @@ title: Attention Visualizer
 description: with Tensorflow and huggingface's transformers library.
 img: assets/img/Attention_Layer1_Head3.png
 importance: 1
-category: fun
-related_publications:
+category: personal
 ---
 
 <div class="row mb-3">
